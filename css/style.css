@@ -1,7 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     background-color: #eee;
     padding: 1rem;
-    margin: 2rem 1rem;
+   line-height: 2rem; 
+   font-size: 1rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -11,7 +19,11 @@ h1{
 .navbar{
    
     text-align: center;
-    min-height: 2rem;
+    min-height: 3rem;
+    margin: 2rem 1rem;
+}
+#title{
+    padding: 1rem 0;
 }
 .image{
     background-color: #fff;
@@ -35,6 +47,7 @@ img{
     justify-content: center;
     align-items: center;
 }
+<<<<<<< HEAD
 
 h3 {
     margin: 50px 0;
@@ -59,3 +72,14 @@ ul {
   li {
     margin: 16px 0;
   }
+=======
+#info h3{
+    margin: 2rem 0;
+    padding: 1rem;
+}
+.with-link{
+    text-align: center;
+    margin: 2rem 0;
+    padding: 1rem 0;
+}
+>>>>>>> 704e3d7da232c93d7c1123c5a66e45e59f90fe45
