@@ -3,6 +3,8 @@ body{
     padding: 1rem;
     margin: 2rem 1rem;
 }
+
+
 h1{
     text-align: center;
 }
@@ -21,6 +23,7 @@ h1{
 }
 img{
     width: 1000px;
+    max-width: 100%;
     margin: 1rem 0;
     padding: 1rem 0;
 }
@@ -32,3 +35,27 @@ img{
     justify-content: center;
     align-items: center;
 }
+
+h3 {
+    margin: 50px 0;
+    text-align: center;
+  }
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
