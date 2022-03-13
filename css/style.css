@@ -47,7 +47,6 @@ img{
     justify-content: center;
     align-items: center;
 }
-<<<<<<< HEAD
 
 h3 {
     margin: 50px 0;
@@ -72,14 +71,3 @@ ul {
   li {
     margin: 16px 0;
   }
-=======
-#info h3{
-    margin: 2rem 0;
-    padding: 1rem;
-}
-.with-link{
-    text-align: center;
-    margin: 2rem 0;
-    padding: 1rem 0;
-}
->>>>>>> 704e3d7da232c93d7c1123c5a66e45e59f90fe45
